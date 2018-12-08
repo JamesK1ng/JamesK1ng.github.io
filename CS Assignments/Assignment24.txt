@@ -1,0 +1,8 @@
+#Assignment24
+
+usernouns = "Enter nouns"
+wordnum = usernouns.split(" ")
+plurals = count.usernouns("s "
+
+frac = wordnum / plurals
+

@@ -1,0 +1,8 @@
+#Assignment48
+#David Dekle-Hills
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results

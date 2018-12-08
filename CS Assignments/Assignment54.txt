@@ -1,0 +1,18 @@
+//Name:  David Dekle-Hills
+//Date:  May 2018
+//Prints "I love Python" 20 times, using a loop
+
+#include <iostream>            
+using namespace std; 
+
+int main ()          
+{
+  int i;   //The index variable for the loop
+  
+  //Loop will repeat 10 times:
+  for (i = 0; i < 20; i++)
+  {
+    cout << "I love Python!\n";  
+  }       
+  return 0;          
+}

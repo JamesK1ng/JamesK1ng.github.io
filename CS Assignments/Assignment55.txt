@@ -1,0 +1,16 @@
+//Name:  David Dekle-Hills
+//Date:  May 2018
+//Changes km to miles
+
+#include <iostream>            
+using namespace std; 
+
+int main ()          
+{
+  float km, miles;
+  cout << "Enter km:";
+  cin >> km;
+  miles = km *  0.621371; 
+  cout << endl << "Miles: " << miles << "\n\n";     
+  return 0;          
+}

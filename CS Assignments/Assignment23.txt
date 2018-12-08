@@ -1,0 +1,3 @@
+#Assignment23
+
+not (in1 and in2)
